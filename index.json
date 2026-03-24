@@ -1,0 +1,15 @@
+[
+  {
+    "title": "The Future of Web Development with React 19",
+    "slug": "the-future-of-web-development-with-react-19",
+    "date": "2026-03-24T15:01:55.060Z",
+    "description": "Exploring the latest features in React 19, including the new compiler, actions, and server components that are changing how we build modern web applications.\n",
+    "tags": [
+      "react",
+      "web development",
+      "javascript",
+      "frontend"
+    ],
+    "cover": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fi81wa6km7uvcuqo2gcmn.jpg"
+  }
+]
