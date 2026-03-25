@@ -1,7 +1,7 @@
 ---
 title: 🚀 The State of Artificial Intelligence in 2026
 slug: '-the-state-of-artificial-intelligence-in-2026'
-date: '2026-03-25T08:41:33.201Z'
+date: '2026-03-25T08:42:54.113Z'
 description: >-
   Artificial Intelligence (AI) is no longer a futuristic concept—it's a core
   part of modern software systems. From intelligent assistants to autonomous
