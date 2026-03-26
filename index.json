@@ -18,30 +18,6 @@
     "cover": "https://ik.imagekit.io/vituepzjm/artificial-intelligence-new-technology-science-futuristic-abstract-human-brain-ai-technology-cpu-central-processor-unit-chipset-big-data-machine-learning-cyber-mind-domination-generative-ai-scaled-1-1500x1000.jpg"
   },
   {
-    "title": "🚀 Building Smarter AI: A Complete Guide to RAG Chatbots",
-    "slug": "-building-smarter-ai-a-complete-guide-to-rag-chatbots",
-    "date": "2026-03-25T18:21:35.611Z",
-    "updatedAt": "2026-03-25T18:42:52.543Z",
-    "description": "RAG chatbots combine AI language models with real-time data retrieval to deliver accurate, context-aware, and up-to-date responses.",
-    "tags": [
-      "AI",
-      "RAG",
-      "Chatbots",
-      "LLM",
-      "Machine Learning",
-      "NLP",
-      "Generative AI",
-      "Vector Database",
-      "AI Architecture",
-      "Data Retrieval",
-      "Enterprise AI",
-      "Automation",
-      "Tech",
-      "Software Development"
-    ],
-    "cover": "https://ik.imagekit.io/Rtym/Website-Blogs-Images/building-smarter-ai-a-complete-guide-to-rag-chatbots.png"
-  },
-  {
     "title": "Build a Self-Optimizing AI Agent That Continuously Learns From Feedback",
     "slug": "build-a-self-optimizing-ai-agent-that-continuously-learns-from-feedback",
     "date": "2026-03-25T19:08:41.904Z",
@@ -59,5 +35,29 @@
       "Adaptive AI"
     ],
     "cover": "https://ik.imagekit.io/Rtym/Website-Blogs-Images/-build-a-self-optimizing-ai-agent-that-continuously-learns-from-feedback"
+  },
+  {
+    "title": "🚀 Building Smarter AI: A Complete Guide to RAG Chatbots",
+    "slug": "-building-smarter-ai-a-complete-guide-to-rag-chatbots",
+    "date": "2026-03-25T18:21:35.611Z",
+    "updatedAt": "2026-03-26T15:19:24.712Z",
+    "description": "RAG chatbots combine AI language models with real-time data retrieval to deliver accurate, context-aware, and up-to-date responses.",
+    "tags": [
+      "AI",
+      "RAG",
+      "Chatbots",
+      "LLM",
+      "Machine Learning",
+      "NLP",
+      "Generative AI",
+      "Vector Database",
+      "AI Architecture",
+      "Data Retrieval",
+      "Enterprise AI",
+      "Automation",
+      "Tech",
+      "Software Development"
+    ],
+    "cover": "https://ik.imagekit.io/Rtym/Website-Blogs-Images/Gemini_Generated_Image_9j2t999j2t99999j2t.png?updatedAt=1774465179493"
   }
 ]

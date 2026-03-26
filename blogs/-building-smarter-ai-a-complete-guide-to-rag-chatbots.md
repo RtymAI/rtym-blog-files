@@ -2,7 +2,7 @@
 title: '🚀 Building Smarter AI: A Complete Guide to RAG Chatbots'
 slug: '-building-smarter-ai-a-complete-guide-to-rag-chatbots'
 date: '2026-03-25T18:21:35.611Z'
-updatedAt: '2026-03-25T18:42:52.543Z'
+updatedAt: '2026-03-26T15:19:24.712Z'
 description: >-
   RAG chatbots combine AI language models with real-time data retrieval to
   deliver accurate, context-aware, and up-to-date responses.
@@ -22,7 +22,7 @@ tags:
   - Tech
   - Software Development
 cover: >-
-  https://ik.imagekit.io/Rtym/Website-Blogs-Images/building-smarter-ai-a-complete-guide-to-rag-chatbots.png
+  https://ik.imagekit.io/Rtym/Website-Blogs-Images/Gemini_Generated_Image_9j2t999j2t99999j2t.png?updatedAt=1774465179493
 canonical: >-
   https://www.rtymaiworks.com/blog/building-smarter-ai-a-complete-guide-to-rag-chatbots
 seoTitle: '🚀 Building Smarter AI: A Complete Guide to RAG Chatbots'
