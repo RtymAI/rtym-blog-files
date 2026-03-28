@@ -2,7 +2,7 @@
 title: Build a Self-Optimizing AI Agent That Continuously Learns From Feedback
 slug: build-a-self-optimizing-ai-agent-that-continuously-learns-from-feedback
 date: '2026-03-25T19:08:41.904Z'
-updatedAt: '2026-03-25T19:08:41.904Z'
+updatedAt: '2026-03-28T20:04:17.326Z'
 description: >-
   Learn how to design and build AI agents that continuously improve using
   feedback, reinforcement learning, and dynamic skill memory for smarter,
