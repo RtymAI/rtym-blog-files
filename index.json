@@ -1,14 +1,5 @@
 [
   {
-    "title": "⚡ Building Scalable Web Applications in 2026: A Practical Guide",
-    "slug": "-building-scalable-web-applications-in-2026-a-practical-guide",
-    "date": "2026-03-25T07:38:51.910Z",
-    "updatedAt": "2026-03-25T08:55:44.173Z",
-    "description": "Scalability is no longer a luxury — it’s a necessity. Whether you're building a startup MVP or a production-grade SaaS platform, your application must handle gr",
-    "tags": [],
-    "cover": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31"
-  },
-  {
     "title": "🚀 The State of Artificial Intelligence in 2026",
     "slug": "-the-state-of-artificial-intelligence-in-2026",
     "date": "2026-03-25T08:42:54.113Z",
@@ -59,5 +50,23 @@
       "Software Development"
     ],
     "cover": "https://ik.imagekit.io/Rtym/Website-Blogs-Images/Gemini_Generated_Image_9j2t999j2t99999j2t.png?updatedAt=1774465179493"
+  },
+  {
+    "title": "⚡ Building Scalable Web Applications in 2026: A Practical Guide",
+    "slug": "-building-scalable-web-applications-in-2026-a-practical-guide",
+    "date": "2026-03-25T07:38:51.910Z",
+    "updatedAt": "2026-03-28T18:15:31.396Z",
+    "description": "Scalability is no longer a luxury — it’s a necessity. Whether you're building a startup MVP or a production-grade SaaS platform, your application must handle gr",
+    "tags": [
+      "scalability",
+      "architecture",
+      "scale",
+      "load",
+      "deployment",
+      "scalable",
+      "scaling",
+      "best"
+    ],
+    "cover": "https://res.cloudinary.com/djexzbqvx/image/upload/v1774721652/%22website-blog-images%22/69bcd38ad9c4c8ceb1f9a196_pexels-photo-14553704_es8fd3.jpg"
   }
 ]
