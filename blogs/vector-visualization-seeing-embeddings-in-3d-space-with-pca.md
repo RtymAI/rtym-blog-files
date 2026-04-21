@@ -2,7 +2,7 @@
 title: 'Vector Visualization: Seeing Embeddings in 3D Space with PCA'
 slug: vector-visualization-seeing-embeddings-in-3d-space-with-pca
 date: '2026-04-21T16:41:43.032Z'
-updatedAt: '2026-04-21T16:41:43.032Z'
+updatedAt: '2026-04-21T16:48:19.115Z'
 description: >-
   Vector embeddings are the foundation of modern AI systems such as semantic
   search, recommendation engines, Retrieval-Augmented Generation
@@ -36,8 +36,6 @@ seoKeywords:
   - systems
 ---
 
-# Vector Visualization: Seeing Embeddings in 3D Space with PCA
-
 ## Introduction
 
 Vector embeddings are the foundation of modern AI systems such as semantic search, recommendation engines, Retrieval-Augmented Generation (RAG), clustering, and similarity matching.  
@@ -50,7 +48,7 @@ Embeddings usually contain hundreds or thousands of dimensions, making them diff
 
 That is where **Vector Visualization** comes in.
 
----
+![alt text](https://res.cloudinary.com/djexzbqvx/image/upload/v1776789449/%22website-blog-images%22/Gemini_Generated_Image_fxd0rmfxd0rmfxd0_qieaqy.png)
 
 ## What is Vector Visualization?
 
@@ -64,8 +62,6 @@ That is where **Vector Visualization** comes in.
 - Embedding model performance  
 
 This makes vector databases and embedding systems far more interpretable.
-
-![alt text](https://res.cloudinary.com/djexzbqvx/image/upload/v1776789449/%22website-blog-images%22/Gemini_Generated_Image_fxd0rmfxd0rmfxd0_qieaqy.png)
 
 ## Core Idea
 
