@@ -1,11 +1,8 @@
 ---
-title: >-
-  GEO (Generative Engine Optimization): How to Structure Content So AI Search
-  Engines Cite You as the Primary Source
-slug: >-
-  geo-generative-engine-optimization-how-to-structure-content-so-ai-search-engines-cite-you-as-the-primary-source
+title: How to Structure Content So AI Search Engines Cite You as the Primary Source
+slug: how-to-structure-content-so-ai-search-engines-cite-you-as-the-primary-source
 date: '2026-04-21T18:01:25.444Z'
-updatedAt: '2026-04-21T18:01:25.444Z'
+updatedAt: '2026-04-21T18:06:11.707Z'
 description: >-
   Traditional SEO focused on helping websites rank on search engine result
   pages. But today, millions of users are turning to AI platforms like ChatGPT,
@@ -20,12 +17,11 @@ tags:
   - website
   - answer
   - best
-cover: ''
+cover: >-
+  https://res.cloudinary.com/djexzbqvx/image/upload/v1776794711/%22website-blog-images%22/Gemini_Generated_Image_905iy2905iy2905i_fhx6z0.png
 canonical: >-
-  https://www.rtymaiworks.com/blog/geo-generative-engine-optimization-how-to-structure-content-so-ai-search-engines-cite-you-as-the-primary-source
-seoTitle: >-
-  GEO (Generative Engine Optimization): How to Structure Content So AI Search
-  Engines Cite You as the Primary Source
+  https://www.rtymaiworks.com/blog/how-to-structure-content-so-ai-search-engines-cite-you-as-the-primary-source
+seoTitle: How to Structure Content So AI Search Engines Cite You as the Primary Source
 seoDescription: >-
   Traditional SEO focused on helping websites rank on search engine result
   pages. But today, millions of users are turning to AI platforms like ChatGPT,
@@ -44,7 +40,7 @@ seoKeywords:
   - authentication
 ---
 
-# GEO (Generative Engine Optimization): How to Structure Content So AI Search Engines Cite You as the Primary Source
+# How to Structure Content So AI Search Engines Cite You as the Primary Source
 
 ## Introduction
 
