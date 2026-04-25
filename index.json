@@ -1,38 +1,5 @@
 [
   {
-    "title": "⚡ Building Scalable Web Applications in 2026: A Practical Guide",
-    "slug": "-building-scalable-web-applications-in-2026-a-practical-guide",
-    "date": "2026-03-25T07:38:51.910Z",
-    "updatedAt": "2026-03-28T20:03:48.687Z",
-    "description": "Scalability is no longer a luxury — it’s a necessity. Whether you're building a startup MVP or a production-grade SaaS platform, your application must handle gr",
-    "tags": [
-      "scalability",
-      "architecture",
-      "scale",
-      "load",
-      "deployment",
-      "scalable",
-      "scaling",
-      "best"
-    ],
-    "cover": "https://res.cloudinary.com/djexzbqvx/image/upload/v1774721652/%22website-blog-images%22/69bcd38ad9c4c8ceb1f9a196_pexels-photo-14553704_es8fd3.jpg",
-    "canonical": "https://www.rtymaiworks.com/blog/-building-scalable-web-applications-in-2026-a-practical-guide",
-    "seoTitle": "⚡ Building Scalable Web Applications in 2026: A Practical Guide",
-    "seoDescription": "Scalability is no longer a luxury — it’s a necessity. Whether you're building a startup MVP or a production-grade SaaS platform, your application must handle gr",
-    "seoKeywords": [
-      "scalability",
-      "architecture",
-      "scale",
-      "load",
-      "deployment",
-      "scalable",
-      "scaling",
-      "best",
-      "microservices",
-      "optimization"
-    ]
-  },
-  {
     "title": "AWS Just Changed the Game: Mount Your S3 Bucket Like a Local Drive",
     "slug": "aws-just-changed-the-game-mount-your-s3-bucket-like-a-local-drive",
     "date": "2026-04-13T08:48:36.695Z",
@@ -322,6 +289,41 @@
       "industries",
       "multimodal",
       "concerns"
+    ]
+  },
+  {
+    "title": "⚡ Building Scalable Web Applications in 2026: A Practical Guide",
+    "slug": "-building-scalable-web-applications-in-2026-a-practical-guide",
+    "date": "2026-03-25T07:38:51.910Z",
+    "updatedAt": "2026-04-25T18:27:08.551Z",
+    "updatedBy": "Santhosh Shanmugam",
+    "updatedByPhoto": "https://lh3.googleusercontent.com/a/ACg8ocJbsQQd9QUvAQveTOEXgyH1WVnsYUDrhvRiE0L6npOVbG0wwYWJ=s96-c",
+    "description": "Scalability is no longer a luxury — it’s a necessity. Whether you're building a startup MVP or a production-grade SaaS platform, your application must handle gr",
+    "tags": [
+      "scalability",
+      "architecture",
+      "scale",
+      "load",
+      "deployment",
+      "scalable",
+      "scaling",
+      "best"
+    ],
+    "cover": "https://res.cloudinary.com/djexzbqvx/image/upload/v1774721652/%22website-blog-images%22/69bcd38ad9c4c8ceb1f9a196_pexels-photo-14553704_es8fd3.jpg",
+    "canonical": "https://www.rtymaiworks.com/blog/-building-scalable-web-applications-in-2026-a-practical-guide",
+    "seoTitle": "⚡ Building Scalable Web Applications in 2026: A Practical Guide",
+    "seoDescription": "Scalability is no longer a luxury — it’s a necessity. Whether you're building a startup MVP or a production-grade SaaS platform, your application must handle gr",
+    "seoKeywords": [
+      "scalability",
+      "architecture",
+      "scale",
+      "load",
+      "deployment",
+      "scalable",
+      "scaling",
+      "best",
+      "microservices",
+      "optimization"
     ]
   }
 ]

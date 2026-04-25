@@ -2,7 +2,10 @@
 title: '⚡ Building Scalable Web Applications in 2026: A Practical Guide'
 slug: '-building-scalable-web-applications-in-2026-a-practical-guide'
 date: '2026-03-25T07:38:51.910Z'
-updatedAt: '2026-03-28T18:15:31.396Z'
+updatedAt: '2026-04-25T18:27:08.551Z'
+updatedBy: Santhosh Shanmugam
+updatedByPhoto: >-
+  https://lh3.googleusercontent.com/a/ACg8ocJbsQQd9QUvAQveTOEXgyH1WVnsYUDrhvRiE0L6npOVbG0wwYWJ=s96-c
 description: >-
   Scalability is no longer a luxury — it’s a necessity. Whether you're building
   a startup MVP or a production-grade SaaS platform, your application must
