@@ -2,7 +2,7 @@
 title: How to Structure Content So AI Search Engines Cite You as the Primary Source
 slug: how-to-structure-content-so-ai-search-engines-cite-you-as-the-primary-source
 date: '2026-04-21T18:01:25.444Z'
-updatedAt: '2026-04-25T18:06:40.425Z'
+updatedAt: '2026-04-25T18:08:09.513Z'
 updatedBy: Santhosh Shanmugam
 description: >-
   Traditional SEO focused on helping websites rank on search engine result
