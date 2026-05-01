@@ -74,39 +74,6 @@
     ]
   },
   {
-    "title": "The Vercel Attack Nobody Saw Coming — And What It Means for Every Engineering Team",
-    "slug": "the-vercel-attack-nobody-saw-coming-and-what-it-means-for-every-engineering-team",
-    "date": "2026-04-25T17:13:44.211Z",
-    "updatedAt": "2026-04-25T17:54:01.188Z",
-    "description": "By RtymAIWorks | April 2026 | DevSecOps & Cloud Security",
-    "tags": [
-      "vercel",
-      "every",
-      "security",
-      "environment",
-      "secrets",
-      "tool",
-      "attacker",
-      "access"
-    ],
-    "cover": "https://res.cloudinary.com/djexzbqvx/image/upload/v1777137179/%22website-blog-images%22/vercel-breach_acbynb.png",
-    "canonical": "https://www.rtymaiworks.com/blog/the-vercel-attack-nobody-saw-coming-and-what-it-means-for-every-engineering-team",
-    "seoTitle": "The Vercel Attack Nobody Saw Coming — And What It Means for Every Engineering Team",
-    "seoDescription": "By RtymAIWorks | April 2026 | DevSecOps & Cloud Security",
-    "seoKeywords": [
-      "vercel",
-      "every",
-      "security",
-      "environment",
-      "secrets",
-      "tool",
-      "attacker",
-      "access",
-      "oauth",
-      "incident"
-    ]
-  },
-  {
     "title": "How to Structure Content So AI Search Engines Cite You as the Primary Source",
     "slug": "how-to-structure-content-so-ai-search-engines-cite-you-as-the-primary-source",
     "date": "2026-04-21T18:01:25.444Z",
@@ -359,6 +326,41 @@
       "real",
       "infrastructure",
       "reasoning"
+    ]
+  },
+  {
+    "title": "The Vercel Attack Nobody Saw Coming — And What It Means for Every Engineering Team",
+    "slug": "the-vercel-attack-nobody-saw-coming-and-what-it-means-for-every-engineering-team",
+    "date": "2026-04-25T17:13:44.211Z",
+    "updatedAt": "2026-05-01T17:56:15.523Z",
+    "updatedBy": "Murali Doss",
+    "updatedByPhoto": "https://lh3.googleusercontent.com/a/ACg8ocL6fpP_XJjqotikeym-CLUAS6LxY4eEzK8x1N8OCJ1jk_63G1UHYw=s96-c",
+    "description": "By RtymAIWorks | April 2026 | DevSecOps & Cloud Security",
+    "tags": [
+      "vercel",
+      "every",
+      "security",
+      "environment",
+      "secrets",
+      "tool",
+      "attacker",
+      "access"
+    ],
+    "cover": "https://res.cloudinary.com/djexzbqvx/image/upload/v1777137179/%22website-blog-images%22/vercel-breach_acbynb.png",
+    "canonical": "https://www.rtymaiworks.com/blog/the-vercel-attack-nobody-saw-coming-and-what-it-means-for-every-engineering-team",
+    "seoTitle": "The Vercel Attack Nobody Saw Coming — And What It Means for Every Engineering Team",
+    "seoDescription": "By RtymAIWorks | April 2026 | DevSecOps & Cloud Security",
+    "seoKeywords": [
+      "vercel",
+      "every",
+      "security",
+      "environment",
+      "secrets",
+      "tool",
+      "attacker",
+      "access",
+      "oauth",
+      "incident"
     ]
   }
 ]

@@ -5,7 +5,10 @@ title: >-
 slug: >-
   the-vercel-attack-nobody-saw-coming-and-what-it-means-for-every-engineering-team
 date: '2026-04-25T17:13:44.211Z'
-updatedAt: '2026-04-25T17:54:01.188Z'
+updatedAt: '2026-05-01T17:56:15.523Z'
+updatedBy: Murali Doss
+updatedByPhoto: >-
+  https://lh3.googleusercontent.com/a/ACg8ocL6fpP_XJjqotikeym-CLUAS6LxY4eEzK8x1N8OCJ1jk_63G1UHYw=s96-c
 description: By RtymAIWorks | April 2026 | DevSecOps & Cloud Security
 tags:
   - vercel
