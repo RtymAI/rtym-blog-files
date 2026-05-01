@@ -2,7 +2,10 @@
 title: 'AWS Just Changed the Game: Mount Your S3 Bucket Like a Local Drive'
 slug: aws-just-changed-the-game-mount-your-s3-bucket-like-a-local-drive
 date: '2026-04-13T08:48:36.695Z'
-updatedAt: '2026-04-13T09:04:14.814Z'
+updatedAt: '2026-05-01T18:01:12.690Z'
+updatedBy: Murali Doss
+updatedByPhoto: >-
+  https://lh3.googleusercontent.com/a/ACg8ocL6fpP_XJjqotikeym-CLUAS6LxY4eEzK8x1N8OCJ1jk_63G1UHYw=s96-c
 description: By RtymAIWorks | April 13, 2026 | Cloud & Infrastructure
 tags:
   - AWS
