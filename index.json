@@ -366,5 +366,40 @@
       "Cloud Storage",
       "RtymAIWorks"
     ]
+  },
+  {
+    "title": "Why Your Data Pipeline Is a Liability — And How to Fix It",
+    "slug": "why-your-data-pipeline-is-a-liability-and-how-to-fix-it",
+    "date": "2026-05-11T06:33:54.050Z",
+    "updatedAt": "2026-05-11T06:33:54.050Z",
+    "updatedBy": "Murali Doss",
+    "updatedByPhoto": "https://lh3.googleusercontent.com/a/ACg8ocL6fpP_XJjqotikeym-CLUAS6LxY4eEzK8x1N8OCJ1jk_63G1UHYw=s96-c",
+    "description": "By Murali Doss | DevSecOps & DataOps Consultant, Rtym AI Works",
+    "tags": [
+      "data",
+      "pipeline",
+      "business",
+      "gold",
+      "quality",
+      "three",
+      "layer",
+      "rollback"
+    ],
+    "cover": "https://res.cloudinary.com/djexzbqvx/image/upload/v1778481158/%22website-blog-images%22/Firefly_gpt-image_Three_horizontal_glowing_bands_in_bronze_silver_and_gold__colors_against_a_dark_navy_928144_aozagm.png",
+    "canonical": "https://www.rtymaiworks.com/blog/why-your-data-pipeline-is-a-liability-and-how-to-fix-it",
+    "seoTitle": "Why Your Data Pipeline Is a Liability — And How to Fix It",
+    "seoDescription": "By Murali Doss | DevSecOps & DataOps Consultant, Rtym AI Works",
+    "seoKeywords": [
+      "data",
+      "pipeline",
+      "business",
+      "gold",
+      "quality",
+      "three",
+      "layer",
+      "rollback",
+      "version",
+      "gate"
+    ]
   }
 ]
